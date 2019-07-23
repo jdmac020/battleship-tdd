@@ -1,6 +1,5 @@
 using BattleshipTDD.Game;
 using Shouldly;
-using System;
 using Xunit;
 
 namespace BattleshipTDD.Tests

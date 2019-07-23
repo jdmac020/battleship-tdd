@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace BattleshipTDD.Game
+﻿namespace BattleshipTDD.Game
 {
     public class Board
     {

@@ -1,0 +1,9 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Shall we give you a funny hat and call you "Admiral?"</p>
+    @Html.ActionLink("Will Not Work", "StartGame", "Game", htmlAttributes: new { @class = "btn btn-primary" })
+</div>
