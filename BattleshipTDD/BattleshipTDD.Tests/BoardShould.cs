@@ -11,7 +11,7 @@ namespace BattleshipTDD.Tests
         {
             var board = new Board("Normal");
 
-            board.Size.ShouldBe("Pretty Big");
+            board.Size.ShouldBe("Normal");
         }
     }
 }
